@@ -21,7 +21,7 @@ This section includes custom resource packs for Minecraft. These packs modify th
 This section features custom datapacks that add new features or modify gameplay mechanics. Datapacks are a great way to add more depth and fun to your Minecraft experience.
 
 - **[Rupees Economy]**: This datapack works best with the recourcepack. This adds Rupees into Minecraft. These can be a viable way to add a survival friendly economy system to Minecraft. (This Does not yet work on 1.21)
-- **[Enchant Trigger]**: This datapack give the players a different way to enchant items. to enchant a sword with sharpness for example, simply craft a token, hold the sword in your hand, then type: **/trigger _gui** and then select sharpness in the menu that appears. It's that easy, everytime it's clicked it adds 1 level to it (until max).  
+- **[Enchant Trigger]**: This datapack gives players a different way to enchant items. to enchant a sword with sharpness for example, simply craft a token, hold the sword in your hand, then type: **/trigger _gui** and then select sharpness in the menu that appears. It's that easy, every time it's clicked it adds 1 level to it (until max).  
 It does **not** provide enchantments for **free**.
 
 ## Installation
