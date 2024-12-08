@@ -1,0 +1,1 @@
+give @p paper{CustomModelData:100,display:{Name:'[{"text":"Red Rupee","italic":false,"color":"dark_red"}]',Lore:['[{"text":"Worth: 10 Green Rupees","color":"dark_green"}]']}} 5

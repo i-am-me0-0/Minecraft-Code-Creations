@@ -1,7 +1,0 @@
-{
-    "function": "set_enchantments",
-    "enchantments": {
-      "soul_speed": 1
-    },
-    "add": true
-  }

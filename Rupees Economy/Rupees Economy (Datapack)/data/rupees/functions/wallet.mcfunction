@@ -1,0 +1,1 @@
+give @p bundle{CustomModelData:10,display:{Name:'[{"text":"Wallet","italic":false,"color":"#993300"}]',Lore:['[{"text":"For Holding Your Rupees","color":"dark_green"}]']}} 1

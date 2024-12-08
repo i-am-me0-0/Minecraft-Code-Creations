@@ -1,0 +1,7 @@
+{
+    "function": "set_enchantments",
+    "enchantments": {
+      "sweeping_edge": 1
+    },
+    "add": true
+  }

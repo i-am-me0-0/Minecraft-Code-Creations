@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 10},"model": "minecraft:item/green_rupee"},
+    {"predicate": {"custom_model_data": 20},"model": "minecraft:item/orange_rupee"},
+    {"predicate": {"custom_model_data": 50},"model": "minecraft:item/blue_rupee"},
+    {"predicate": {"custom_model_data": 100},"model": "minecraft:item/red_rupee"},
+    {"predicate": {"custom_model_data": 200},"model": "minecraft:item/purple_rupee"},
+    {"predicate": {"custom_model_data": 500},"model": "minecraft:item/grey_rupee"},
+    {"predicate": {"custom_model_data": 1000},"model": "minecraft:item/yellow_rupee"},
+    {"predicate": {"custom_model_data": 2000},"model": "minecraft:item/gold_rupee"},
+    {"predicate": {"custom_model_data": 5000},"model": "minecraft:item/black_rupee"}
+  ]
+}

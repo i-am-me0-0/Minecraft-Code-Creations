@@ -1,7 +1,0 @@
-{
-    "function": "set_enchantments",
-    "enchantments": {
-      "quick_charge": 1
-    },
-    "add": true
-  }

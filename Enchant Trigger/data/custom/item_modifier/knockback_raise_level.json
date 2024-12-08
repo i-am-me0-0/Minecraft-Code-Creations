@@ -1,7 +1,0 @@
-{
-    "function": "set_enchantments",
-    "enchantments": {
-      "knockback": 1
-    },
-    "add": true
-  }

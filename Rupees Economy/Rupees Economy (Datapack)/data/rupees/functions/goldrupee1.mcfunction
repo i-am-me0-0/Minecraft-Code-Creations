@@ -1,0 +1,1 @@
+give @p paper{CustomModelData:2000,display:{Name:'[{"text":"Gold Rupee","italic":false,"color":"#d4af37"}]',Lore:['[{"text":"Worth: 200 Green Rupees","color":"dark_green"}]']}} 1
