@@ -1,0 +1,1 @@
+tellraw @a [{"text":"\nTo get started with enchanting run ","underlined":false,"color":"white"},{"clickEvent":{"action":"run_command","value":"/trigger _gui"},"hoverEvent":{"action":"show_text","value":[{"text":"Open the enchant trigger menu","color":"blue"}]},"text":"/trigger _gui","color": "green"}]

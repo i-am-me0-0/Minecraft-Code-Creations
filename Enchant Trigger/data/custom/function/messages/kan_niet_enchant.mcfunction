@@ -1,0 +1,1 @@
+tellraw @s {"text": "This item can't be enchanted with this enchantment","color": "red"}

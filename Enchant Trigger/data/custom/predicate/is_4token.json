@@ -1,0 +1,17 @@
+
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "container.*": {
+          "items": "minecraft:repeating_command_block",
+          "count": {"min":4},
+          "components": {
+            "minecraft:custom_data": {"epic":1}
+          }
+        
+        }
+      }
+    }
+  }

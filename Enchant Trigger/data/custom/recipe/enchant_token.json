@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "LDL",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "id": "minecraft:repeating_command_block",
+        "count": 1,
+        "components":{
+                "custom_data":{"epic":1},
+                "item_name":"{\"italic\":false,\"text\":\"                 Enchant Token                \",\"color\":\"dark_purple\",\"underlined\":true}",
+                "lore": ["{\"text\":\"Can Be Redeemed For 1 Enchant Trigger\", \"color\":\"aqua\", \"italic\":false,\"underlined\":true}"]}}}
